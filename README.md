@@ -3,4 +3,4 @@
 
 ### Algoritmos de Ordenação
 
-- Seleção : O(n log n) 
+- [Capitulo 2](src/main/java/com/xmacedo/ordenacao/OrdenarPorSelecao.java) -  Seleção: O(n log n) 
