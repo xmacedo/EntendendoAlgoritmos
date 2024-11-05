@@ -1,4 +1,4 @@
-package com.xmacedo.grafos;
+package com.xmacedo.graphs;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -64,9 +64,9 @@ public class DijkstraExample {
         }
 
         private void printDistances(int[] distances) {
-            System.out.println("Distâncias a partir do vértice inicial:");
+            System.out.println("Distances from the starting vertex:");
             for (int i = 0; i < distances.length; i++) {
-                System.out.println("Vértice " + i + " : " + distances[i]);
+                System.out.println("Vertex " + i + " : " + distances[i]);
             }
         }
 

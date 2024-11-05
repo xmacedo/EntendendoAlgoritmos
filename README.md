@@ -1,11 +1,10 @@
-## Livro - Entendendo Algoritmos
+## Book - Understanding Algorithms
 
+### Sorting Algorithms
 
-### Algoritmos de Ordenação
-
-- [Capitulo 2](src/main/java/com/xmacedo/ordenacao/OrdenarPorSelecao.java) -  Seleção: O(n log n) 
-- [Capitulo 3](src/main/java/com/xmacedo/recursao/fatorial.java) -  Seleção: O(n log n)
-- [Capitulo 4.1](src/main/java/com/xmacedo/recursao/Soma.java) -  Escreva o código para a função sum;
-- [Capitulo 4.2](src/main/java/com/xmacedo/recursao/Conta.java) -  Escreva uma função recursiva que conte o número de itens em uma lista.
-- [Capitulo 4.3](src/main/java/com/xmacedo/recursao/ValorMaisAlto.java) -  Encontre o valor mais alot em uma lista.
-- [Capitulo 5](src/main/java/com/xmacedo/hash/TabelasHash.java) -  Tabelas Hash.
+- [Chapter 2](src/main/java/com/xmacedo/ordination/SortBySelection.java) - Selection: O(n log n)
+- [Chapter 3](src/main/java/com/xmacedo/recursion/Fatorial.java) - Selection: O(n log n)
+- [Chapter 4.1](src/main/java/com/xmacedo/recursion/Sum.java) - Write the code for the sum function;
+- [Chapter 4.2](src/main/java/com/xmacedo/recursion/Count.java) - Write a recursive function that counts the number of items in a list. 
+- [Chapter 4.3](src/main/java/com/xmacedo/recursion/HighestValue.java) - Find the highest value in a list.
+- [Chapter 5](src/main/java/com/xmacedo/hash/HashTable.java) - Hash table.

@@ -1,6 +1,6 @@
-package com.xmacedo.recursao;
+package com.xmacedo.recursion;
 
-public class fatorial {
+public class Fatorial {
     public static void main(String[] args) {
         int x = 5;
         System.out.println(fat(x));

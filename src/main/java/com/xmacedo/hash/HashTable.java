@@ -2,8 +2,8 @@ package com.xmacedo.hash;
 
 import java.util.HashMap;
 
-//Capitulo 5
-public class TabelasHash {
+//Chapter 5
+public class HashTable {
     public static void main(String[] args) {
         HashMap<String, Integer> listaTelefonica = new HashMap<>();
 
