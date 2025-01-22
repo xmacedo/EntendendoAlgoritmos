@@ -1,4 +1,4 @@
-package com.xmacedo.dinamic;
+package com.xmacedo.dynamic;
 
 import java.util.Arrays;
 
