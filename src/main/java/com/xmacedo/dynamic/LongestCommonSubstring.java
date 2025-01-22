@@ -25,7 +25,6 @@ public class LongestCommonSubstring {
                     int temp_j = j == 0 ? 0 : j - 1;
 
                     cell[i][j] = cell[temp_i][temp_j] + 1;
-
                 } else {
                     cell[i][j] = 0;
                 }
