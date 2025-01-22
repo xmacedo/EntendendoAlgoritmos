@@ -10,3 +10,4 @@
 - [Chapter 5](src/main/java/com/xmacedo/hash/HashTable.java) - Hash table.
 - [Chapter 9.1](src/main/java/com/xmacedo/dynamic/LongestCommonSubstring.java) - Longest Common Substring.
 - [Chapter 9.2](src/main/java/com/xmacedo/dynamic/LongestCommonSubsequence.java) - Longest Common Subsequence.
+- 
